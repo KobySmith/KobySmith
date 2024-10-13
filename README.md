@@ -34,7 +34,15 @@ As a computer science student, I am passionate about exploring the latest trends
 
 #
 ### Projects
-<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NeonSpider1704&repo=NeonSpider1704)](https://github.com/NeonSpider1704/NeonSpider1704)-->
+<!-- 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NeonSpider1704&repo=NeonSpider1704)](https://github.com/NeonSpider1704/NeonSpider1704.git)
+[![AnimeRatingSite Repo](https://github-readme-stats.vercel.app/api/pin/?username=NeonSpider1704&repo=NeonSpider1704)](https://github.com/NeonSpider1704/AnimeRatingSite.git)
+
+https://github.com/NeonSpider1704/NeonSpider1704.git
+https://github.com/NeonSpider1704/osusume.git
+https://github.com/NeonSpider1704/MangaApp.git
+https://github.com/NeonSpider1704/AnimeRatingSite.git
+) -->
 
 #
 ### Statistics
