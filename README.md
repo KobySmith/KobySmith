@@ -43,6 +43,12 @@ https://github.com/NeonSpider1704/osusume.git
 https://github.com/NeonSpider1704/MangaApp.git
 https://github.com/NeonSpider1704/AnimeRatingSite.git
 ) -->
+<h4>Current Projects</h4>
+
+- Algorithm Visualizer
+- Personal Planner
+  
+<h4>Previous Projects</h4>
 
 - Anime Rating Site - A website where you can rate animes with full CRUD functionality. (.Net)
 - Osusume - A website that uses an algorithm which gets user inputted anime and recommends similiar animes. (Vue.js)
