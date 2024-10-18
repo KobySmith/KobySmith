@@ -44,6 +44,11 @@ https://github.com/NeonSpider1704/MangaApp.git
 https://github.com/NeonSpider1704/AnimeRatingSite.git
 ) -->
 
+- Anime Rating Site - A website where you can rate animes with full CRUD functionality. (.Net)
+- Osusume - A website that uses an algorithm which gets user inputted anime and recommends similiar animes. (Vue.js)
+- Manga App - An android app where you can keep track of Manga. (Kotlin)
+
+  
 #
 ### Statistics
 
