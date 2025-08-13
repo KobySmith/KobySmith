@@ -59,5 +59,5 @@ https://github.com/KobySmith/AnimeRatingSite.git
 #
 ### Statistics
 
-![Koby's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KobySmith&show_icons=true&theme=tokyonight&locale=en&include_all_commits=true&count_private=true) 
+![Koby's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NeonSpider1704&show_icons=true&theme=tokyonight&locale=en&include_all_commits=true&count_private=true) 
 ![Koby's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=KobySmith&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false)
