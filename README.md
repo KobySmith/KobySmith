@@ -38,15 +38,16 @@ As a computer science student, I am passionate about exploring the latest trends
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NeonSpider1704&repo=NeonSpider1704)](https://github.com/NeonSpider1704/NeonSpider1704.git)
 [![AnimeRatingSite Repo](https://github-readme-stats.vercel.app/api/pin/?username=NeonSpider1704&repo=NeonSpider1704)](https://github.com/NeonSpider1704/AnimeRatingSite.git)
 
-https://github.com/NeonSpider1704/NeonSpider1704.git
-https://github.com/NeonSpider1704/osusume.git
-https://github.com/NeonSpider1704/MangaApp.git
-https://github.com/NeonSpider1704/AnimeRatingSite.git
+https://github.com/KobySmith/KobySmith.git
+https://github.com/KobySmith/osusume.git
+https://github.com/KobySmith/MangaApp.git
+https://github.com/KobySmith/AnimeRatingSite.git
 ) -->
 <h4>Current Projects</h4>
 
 - Algorithm Visualizer
-- Personal Planner
+- Finance Tracker
+- Godot 2D Game
   
 <h4>Previous Projects</h4>
 
@@ -58,5 +59,5 @@ https://github.com/NeonSpider1704/AnimeRatingSite.git
 #
 ### Statistics
 
-![Koby's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NeonSpider1704&show_icons=true&theme=tokyonight&locale=en&include_all_commits=true&count_private=true) 
-![Koby's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=NeonSpider1704&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false)
+![Koby's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KobySmith&show_icons=true&theme=tokyonight&locale=en&include_all_commits=true&count_private=true) 
+![Koby's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=KobySmith&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false)
